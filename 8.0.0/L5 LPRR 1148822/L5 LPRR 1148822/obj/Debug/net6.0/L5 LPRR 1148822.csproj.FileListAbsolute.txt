@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\bin\Debug\net6.0\L5 LPRR 1148822.exe
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\bin\Debug\net6.0\L5 LPRR 1148822.deps.json
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\bin\Debug\net6.0\L5 LPRR 1148822.runtimeconfig.json
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\bin\Debug\net6.0\L5 LPRR 1148822.dll
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\bin\Debug\net6.0\L5 LPRR 1148822.pdb
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.dll
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\refint\L5 LPRR 1148822.dll
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.pdb
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\L5 LPRR 1148822.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\L5 LPRR 1148822\L5 LPRR 1148822\obj\Debug\net6.0\ref\L5 LPRR 1148822.dll
