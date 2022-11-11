@@ -1,0 +1,5 @@
+C:\Users\lrubi\OneDrive\Documentos\Luis Pedro\URL\segundo semestre\Progra (practico)\L9_LPRR_1148822\L9_LPRR_1148822\obj\Debug\net6.0\L9_LPRR_1148822.csproj.AssemblyReference.cache
+C:\Users\lrubi\OneDrive\Documentos\Luis Pedro\URL\segundo semestre\Progra (practico)\L9_LPRR_1148822\L9_LPRR_1148822\obj\Debug\net6.0\L9_LPRR_1148822.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrubi\OneDrive\Documentos\Luis Pedro\URL\segundo semestre\Progra (practico)\L9_LPRR_1148822\L9_LPRR_1148822\obj\Debug\net6.0\L9_LPRR_1148822.AssemblyInfoInputs.cache
+C:\Users\lrubi\OneDrive\Documentos\Luis Pedro\URL\segundo semestre\Progra (practico)\L9_LPRR_1148822\L9_LPRR_1148822\obj\Debug\net6.0\L9_LPRR_1148822.AssemblyInfo.cs
+C:\Users\lrubi\OneDrive\Documentos\Luis Pedro\URL\segundo semestre\Progra (practico)\L9_LPRR_1148822\L9_LPRR_1148822\obj\Debug\net6.0\L9_LPRR_1148822.csproj.CoreCompileInputs.cache
